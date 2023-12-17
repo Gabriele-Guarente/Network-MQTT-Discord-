@@ -1,0 +1,14 @@
+{
+"hosts": [
+    {
+      "NAME": "Google",
+      "ADDRESS": "8.8.8.8",
+      "PORT": [430, 11]
+    },
+    {
+      "NAME": "Pino",
+      "ADDRESS": "192.16.18.233",
+      "PORT": [3, 25]
+    }
+  ]
+}
